@@ -52,3 +52,8 @@ endlocal
 
 echo Attempting to archive folder... >> "!logFile!"
 echo Script execution complete. Check "%logFile%" for details. >> "!logFile!"
+
+:: Start your startup apps
+start "" "C:\Path\To\Your\ysab.exe"
+start "" "C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe"
+start "" "C:\Path\To\Your\Terminal.exe"
