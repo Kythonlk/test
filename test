@@ -1,0 +1,3 @@
+start "ysab" ysab
+start "brave-browser" brave-browser
+start "wt.exe" wt.exe
