@@ -32,6 +32,9 @@
 - cockroach db on https://cockroachlabs.cloud/
 - anything railway
 - mongo db cloud
+- Mysql db https://dash.filess.io/
+- Mysql db [https://dash.filess.io/](https://freedb.tech/)
+- pocketbase free pockethost.io
 - docker image in render
 
 ### Best
